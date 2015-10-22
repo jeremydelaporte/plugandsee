@@ -4,5 +4,5 @@
 
 USER_OBJS :=
 
-LIBS :=
+LIBS := -lCMSISv2p10_LPC13Uxx -lLPC13Uxx_DriverLib
 

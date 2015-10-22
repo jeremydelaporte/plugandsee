@@ -8,11 +8,10 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
--include src/subdir.mk
--include FreeRTOS/Source/portable/MemMang/subdir.mk
--include FreeRTOS/Source/portable/subdir.mk
--include FreeRTOS/Source/subdir.mk
--include Drivers/source/subdir.mk
+-include tasks/src/subdir.mk
+-include src/FreeRTOS/portable/MemMang/subdir.mk
+-include src/FreeRTOS/portable/GCC/ARM_CM3/subdir.mk
+-include src/FreeRTOS/subdir.mk
 -include subdir.mk
 -include objects.mk
 
@@ -20,55 +19,35 @@ ifneq ($(MAKECMDGOALS),clean)
 ifneq ($(strip $(C_DEPS)),)
 -include $(C_DEPS)
 endif
-ifneq ($(strip $(ASM_DEPS)),)
--include $(ASM_DEPS)
-endif
-ifneq ($(strip $(S_UPPER_DEPS)),)
--include $(S_UPPER_DEPS)
-endif
 endif
 
 -include ../makefile.defs
 
 # Add inputs and outputs from these tool invocations to the build variables 
-SECONDARY_FLASH += \
-plug.hex \
-
-SECONDARY_SIZE += \
-plug.siz \
-
 
 # All Target
-all: plug.elf secondary-outputs
+all: ADC.elf
 
 # Tool invocations
-plug.elf: $(OBJS) $(USER_OBJS)
+ADC.elf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
-	@echo 'Invoking: Cross ARM C Linker'
-	arm-none-eabi-gcc --specs=nosys.specs -mcpu=cortex-m3 -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -Xlinker --gc-sections -Wl,-Map,"plug.map" -o "plug.elf" $(OBJS) $(USER_OBJS) $(LIBS)
+	@echo 'Invoking: MCU Linker'
+	arm-none-eabi-gcc -nostdlib -L"/home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug" -L"/home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug" --specs=rdimon.specs -lc -lrdimon -Xlinker -Map="ADC.map" -Xlinker --gc-sections -mcpu=cortex-m3 -mthumb -T "ADC_Debug.ld" -o "ADC.elf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
-
-plug.hex: plug.elf
-	@echo 'Invoking: Cross ARM GNU Create Flash Image'
-	arm-none-eabi-objcopy -O ihex "plug.elf"  "plug.hex"
-	@echo 'Finished building: $@'
-	@echo ' '
-
-plug.siz: plug.elf
-	@echo 'Invoking: Cross ARM GNU Print Size'
-	arm-none-eabi-size --format=berkeley "plug.elf"
-	@echo 'Finished building: $@'
-	@echo ' '
+	$(MAKE) --no-print-directory post-build
 
 # Other Targets
 clean:
-	-$(RM) $(SECONDARY_SIZE)$(OBJS)$(C_DEPS)$(ASM_DEPS)$(SECONDARY_FLASH)$(S_UPPER_DEPS) plug.elf
+	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) ADC.elf
 	-@echo ' '
 
-secondary-outputs: $(SECONDARY_FLASH) $(SECONDARY_SIZE)
+post-build:
+	-@echo 'Performing post-build steps'
+	-arm-none-eabi-size "ADC.elf" ; arm-none-eabi-objcopy -O binary "ADC.elf" "ADC.elf" ; checksum -p LPC1317 -d "ADC.elf"
+	-@echo ' '
 
 .PHONY: all clean dependents
-.SECONDARY:
+.SECONDARY: post-build
 
 -include ../makefile.targets

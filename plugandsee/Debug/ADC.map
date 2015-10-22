@@ -1,0 +1,2075 @@
+Archive member included because of file (symbol)
+
+/home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+                              ./adctest.o (SystemCoreClockUpdate)
+/home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                              ./tasks/src/initTask.o (GPIOInit)
+/home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+                              ./adctest.o (UARTInit)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+                              ./src/FreeRTOS/queue.o (memcpy)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+                              ./tasks/src/commandsHandlerTask.o (memset)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o)
+                              ./tasks/src/liveModeTask.o (snprintf)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+                              ./tasks/src/commandsHandlerTask.o (strcmp)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+                              ./tasks/src/commandsHandlerTask.o (strlen)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o) (_impure_ptr)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o) (_svfprintf_r)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (memchr)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (memmove)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_free_r)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_malloc_r)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o) (errno)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o) (__check_heap_overflow)
+/usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-errno.o)
+                              /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+xQueueOutput        0x4               ./adctest.o
+errno               0x4               /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+buffCommandsHandler
+                    0x40              ./tasks/src/commandsHandlerTask.o
+UARTBuffer          0x40              /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+xQueueRegistry      0x40              ./src/FreeRTOS/queue.o
+UARTStatus          0x4               /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+xQueueInput         0x4               ./adctest.o
+iBuff               0x1               ./tasks/src/commandsHandlerTask.o
+ADCValue            0x20              ./adc.o
+__end_of_heap       0x4               /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+trame               0x32              ./tasks/src/liveModeTask.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/commandsHandlerTask.o
+ .text          0x00000000        0x0 ./tasks/src/commandsHandlerTask.o
+ .data          0x00000000        0x0 ./tasks/src/commandsHandlerTask.o
+ .bss           0x00000000        0x0 ./tasks/src/commandsHandlerTask.o
+ .text.tempInside
+                0x00000000       0x40 ./tasks/src/commandsHandlerTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/dataReceiverTask.o
+ .text          0x00000000        0x0 ./tasks/src/dataReceiverTask.o
+ .data          0x00000000        0x0 ./tasks/src/dataReceiverTask.o
+ .bss           0x00000000        0x0 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000      0x874 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000      0x166 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x44 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x58 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000      0x1df ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000      0x115 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x5e ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0xd9 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x10 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x1f ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000      0x384 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0xc0 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x8c ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0xb0 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x2e ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000       0x18 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000      0x697 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00000000      0x11c ./tasks/src/dataReceiverTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/initTask.o
+ .text          0x00000000        0x0 ./tasks/src/initTask.o
+ .data          0x00000000        0x0 ./tasks/src/initTask.o
+ .bss           0x00000000        0x0 ./tasks/src/initTask.o
+ .debug_macro   0x00000000      0x874 ./tasks/src/initTask.o
+ .debug_macro   0x00000000      0x166 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x44 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x58 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/initTask.o
+ .debug_macro   0x00000000      0x1df ./tasks/src/initTask.o
+ .debug_macro   0x00000000      0x115 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x5e ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0xd9 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x10 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x1f ./tasks/src/initTask.o
+ .debug_macro   0x00000000      0x384 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0xc0 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x8c ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0xb0 ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x7f ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0xca ./tasks/src/initTask.o
+ .debug_macro   0x00000000       0x52 ./tasks/src/initTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/instantPowerTask.o
+ .text          0x00000000        0x0 ./tasks/src/instantPowerTask.o
+ .data          0x00000000        0x0 ./tasks/src/instantPowerTask.o
+ .bss           0x00000000        0x0 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000      0x874 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000      0x166 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x44 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x58 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000      0x1df ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000      0x115 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x5e ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0xd9 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x10 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x1f ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000      0x384 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0xc0 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x8c ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0xb0 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x7f ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00000000       0x64 ./tasks/src/instantPowerTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/liveModeTask.o
+ .text          0x00000000        0x0 ./tasks/src/liveModeTask.o
+ .data          0x00000000        0x0 ./tasks/src/liveModeTask.o
+ .bss           0x00000000        0x0 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000      0x874 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000      0x166 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x44 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x58 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000      0x1df ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000      0x115 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x5e ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0xd9 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x10 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x1f ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000      0x384 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0xc0 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x8c ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0xb0 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x7f ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x64 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0xca ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x58 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x35 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x9c ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x35 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000      0x29d ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x10 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x52 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x16 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x43 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000      0x180 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x10 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0xbe ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000       0x16 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00000000      0x197 ./tasks/src/liveModeTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./tasks/src/majTimestampTask.o
+ .text          0x00000000        0x0 ./tasks/src/majTimestampTask.o
+ .data          0x00000000        0x0 ./tasks/src/majTimestampTask.o
+ .bss           0x00000000        0x0 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000      0x874 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000      0x166 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0x44 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0x58 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0x22 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000      0x1df ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000      0x115 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0x5e ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0xd9 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0x10 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0x1f ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000      0x384 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0xc0 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0x8c ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0xb0 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x00000000       0x7f ./tasks/src/majTimestampTask.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .text          0x00000000        0x0 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .data          0x00000000        0x0 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .bss           0x00000000        0x0 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .rodata.xHeapStructSize
+                0x00000000        0x4 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x18 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000       0x18 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0xc ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x874 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x58 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x35 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x9c ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x52 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x43 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x180 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x29d ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x29 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x58 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x1df ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x115 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x5e ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0xd9 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x10 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x1f ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x384 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0xc0 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x8c ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .text          0x00000000        0x0 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .data          0x00000000        0x0 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .bss           0x00000000        0x0 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .rodata.pcInterruptPriorityRegisters
+                0x00000000        0x4 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .text.vPortEndScheduler
+                0x00000000       0x1c ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .text.vPortValidateInterruptPriority
+                0x00000000       0x58 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000      0x874 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000      0x166 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0x44 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0x58 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000      0x1df ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000      0x115 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0x5e ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0xd9 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0x10 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0x1f ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000      0x384 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0xc0 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00000000       0x8c ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/list.o
+ .text          0x00000000        0x0 ./src/FreeRTOS/list.o
+ .data          0x00000000        0x0 ./src/FreeRTOS/list.o
+ .bss           0x00000000        0x0 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000      0x874 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x58 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x35 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x9c ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000      0x10e ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x7f ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x4a ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x52 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x43 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000      0x180 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000      0x29d ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x29 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x58 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000      0x1df ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000      0x115 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x5e ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0xd9 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x10 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0x1f ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000      0x384 ./src/FreeRTOS/list.o
+ .debug_macro   0x00000000       0xc0 ./src/FreeRTOS/list.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/queue.o
+ .text          0x00000000        0x0 ./src/FreeRTOS/queue.o
+ .data          0x00000000        0x0 ./src/FreeRTOS/queue.o
+ .bss           0x00000000        0x0 ./src/FreeRTOS/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x90 ./src/FreeRTOS/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x58 ./src/FreeRTOS/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x60 ./src/FreeRTOS/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x54 ./src/FreeRTOS/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000       0xd4 ./src/FreeRTOS/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000       0xbc ./src/FreeRTOS/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0xb4 ./src/FreeRTOS/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x88 ./src/FreeRTOS/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x38 ./src/FreeRTOS/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x24 ./src/FreeRTOS/queue.o
+ .text.vQueueDelete
+                0x00000000       0x2c ./src/FreeRTOS/queue.o
+ .text.uxQueueGetQueueNumber
+                0x00000000       0x18 ./src/FreeRTOS/queue.o
+ .text.vQueueSetQueueNumber
+                0x00000000       0x1c ./src/FreeRTOS/queue.o
+ .text.ucQueueGetQueueType
+                0x00000000       0x1c ./src/FreeRTOS/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x30 ./src/FreeRTOS/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x34 ./src/FreeRTOS/queue.o
+ .text.vQueueAddToRegistry
+                0x00000000       0x50 ./src/FreeRTOS/queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x44 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x874 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x58 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x35 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x9c ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x10e ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x7f ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x4a ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x52 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x43 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x180 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x29d ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x29 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x35 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x58 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x1df ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x115 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x5e ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0xd9 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x10 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x1f ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x384 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0xc0 ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x8c ./src/FreeRTOS/queue.o
+ .debug_macro   0x00000000       0xb0 ./src/FreeRTOS/queue.o
+ COMMON         0x00000000       0x40 ./src/FreeRTOS/queue.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./src/FreeRTOS/tasks.o
+ .text          0x00000000        0x0 ./src/FreeRTOS/tasks.o
+ .data          0x00000000        0x0 ./src/FreeRTOS/tasks.o
+ .bss           0x00000000        0x0 ./src/FreeRTOS/tasks.o
+ .text.vTaskDelete
+                0x00000000       0xe8 ./src/FreeRTOS/tasks.o
+ .text.vTaskDelayUntil
+                0x00000000       0xe4 ./src/FreeRTOS/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x34 ./src/FreeRTOS/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x3c ./src/FreeRTOS/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000      0x140 ./src/FreeRTOS/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xbc ./src/FreeRTOS/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x18 ./src/FreeRTOS/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000       0x20 ./src/FreeRTOS/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x24 ./src/FreeRTOS/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x18 ./src/FreeRTOS/tasks.o
+ .text.uxTaskGetSystemState
+                0x00000000       0xf8 ./src/FreeRTOS/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0xac ./src/FreeRTOS/tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000       0xb4 ./src/FreeRTOS/tasks.o
+ .text.uxTaskGetTaskNumber
+                0x00000000       0x2c ./src/FreeRTOS/tasks.o
+ .text.vTaskSetTaskNumber
+                0x00000000       0x24 ./src/FreeRTOS/tasks.o
+ .text.prvListTaskWithinSingleList
+                0x00000000      0x118 ./src/FreeRTOS/tasks.o
+ .text.prvTaskCheckFreeStackSpace
+                0x00000000       0x38 ./src/FreeRTOS/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x20 ./src/FreeRTOS/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x30 ./src/FreeRTOS/tasks.o
+ .text.ulTaskNotifyTake
+                0x00000000       0xd8 ./src/FreeRTOS/tasks.o
+ .text.xTaskNotifyWait
+                0x00000000       0xfc ./src/FreeRTOS/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x11c ./src/FreeRTOS/tasks.o
+ .text.xTaskNotifyFromISR
+                0x00000000      0x13c ./src/FreeRTOS/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x00000000       0xe0 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x874 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x58 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x35 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x9c ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x10e ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x7f ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x4a ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x52 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x43 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x180 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x29d ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x29 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x16 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x35 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x58 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x22 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x1df ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x115 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x5e ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0xd9 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x10 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x1f ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x384 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0xc0 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x8c ./src/FreeRTOS/tasks.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .group         0x00000000        0x8 ./adc.o
+ .text          0x00000000        0x0 ./adc.o
+ .data          0x00000000        0x0 ./adc.o
+ .bss           0x00000000        0x0 ./adc.o
+ .bss.ADCIntDone
+                0x00000000        0x4 ./adc.o
+ .bss.OverRunCounter
+                0x00000000        0x4 ./adc.o
+ .bss.channel_flag
+                0x00000000        0x4 ./adc.o
+ .text.ADCBurstRead
+                0x00000000       0x44 ./adc.o
+ .debug_macro   0x00000000      0x874 ./adc.o
+ .debug_macro   0x00000000       0x22 ./adc.o
+ .debug_macro   0x00000000       0x2e ./adc.o
+ .debug_macro   0x00000000       0x22 ./adc.o
+ .debug_macro   0x00000000       0x44 ./adc.o
+ .debug_macro   0x00000000       0x58 ./adc.o
+ .debug_macro   0x00000000       0x22 ./adc.o
+ .debug_macro   0x00000000      0x1df ./adc.o
+ .debug_macro   0x00000000       0x18 ./adc.o
+ .debug_macro   0x00000000      0x697 ./adc.o
+ .debug_macro   0x00000000      0x11c ./adc.o
+ .debug_macro   0x00000000       0x64 ./adc.o
+ COMMON         0x00000000       0x20 ./adc.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .group         0x00000000        0x8 ./adctest.o
+ .text          0x00000000        0x0 ./adctest.o
+ .data          0x00000000        0x0 ./adctest.o
+ .bss           0x00000000        0x0 ./adctest.o
+ .debug_macro   0x00000000      0x874 ./adctest.o
+ .debug_macro   0x00000000       0x22 ./adctest.o
+ .debug_macro   0x00000000       0x2e ./adctest.o
+ .debug_macro   0x00000000       0x22 ./adctest.o
+ .debug_macro   0x00000000       0x44 ./adctest.o
+ .debug_macro   0x00000000       0x58 ./adctest.o
+ .debug_macro   0x00000000       0x22 ./adctest.o
+ .debug_macro   0x00000000      0x1df ./adctest.o
+ .debug_macro   0x00000000       0x18 ./adctest.o
+ .debug_macro   0x00000000      0x697 ./adctest.o
+ .debug_macro   0x00000000      0x11c ./adctest.o
+ .debug_macro   0x00000000       0x52 ./adctest.o
+ .debug_macro   0x00000000       0xca ./adctest.o
+ .debug_macro   0x00000000      0x166 ./adctest.o
+ .debug_macro   0x00000000       0x5e ./adctest.o
+ .debug_macro   0x00000000       0xd9 ./adctest.o
+ .debug_macro   0x00000000       0x10 ./adctest.o
+ .debug_macro   0x00000000       0x1f ./adctest.o
+ .debug_macro   0x00000000      0x384 ./adctest.o
+ .debug_macro   0x00000000       0xc0 ./adctest.o
+ .debug_macro   0x00000000       0x8c ./adctest.o
+ .debug_macro   0x00000000       0xb0 ./adctest.o
+ .debug_macro   0x00000000       0x7f ./adctest.o
+ .debug_macro   0x00000000       0x64 ./adctest.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 ./cr_startup_lpc13u.o
+ .text          0x00000000        0x0 ./cr_startup_lpc13u.o
+ .data          0x00000000        0x0 ./cr_startup_lpc13u.o
+ .bss           0x00000000        0x0 ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000      0x874 ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000       0x22 ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000       0x2e ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000       0x22 ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000       0x44 ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000       0x58 ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000       0x22 ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000      0x1df ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000       0x18 ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000      0x697 ./cr_startup_lpc13u.o
+ .debug_macro   0x00000000      0x11c ./cr_startup_lpc13u.o
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .text          0x00000000        0x0 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .data          0x00000000        0x0 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .bss           0x00000000        0x0 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x00000000       0x22 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x00000000       0x2e /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x00000000       0x18 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x00000000      0x697 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x00000000      0x11c /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .text          0x00000000        0x0 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .data          0x00000000        0x0 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .bss           0x00000000        0x0 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .text.NVIC_EnableIRQ
+                0x00000000       0x30 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .text.NVIC_ClearPendingIRQ
+                0x00000000       0x34 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .text.GPIOSetPinInterrupt
+                0x00000000      0x1f8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .text.GPIOPinIntEnable
+                0x00000000       0x6c /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .text.GPIOPinIntDisable
+                0x00000000       0x6c /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .text.GPIOPinIntStatus
+                0x00000000       0x30 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .text.GPIOPinIntClear
+                0x00000000       0x38 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .text.GPIOSetGroupedInterrupt
+                0x00000000      0x120 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x00000000       0x22 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x00000000       0x2e /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x00000000       0x10 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x00000000      0x12d /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x00000000      0x5b2 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x00000000       0x18 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x00000000      0x697 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x00000000      0x11c /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x00000000       0x52 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .group         0x00000000        0x8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .text          0x00000000        0x0 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .data          0x00000000        0x0 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .bss           0x00000000        0x0 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .text.USART_IRQHandler_bk
+                0x00000000       0xf0 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .text.uart_set_divisors
+                0x00000000      0x13c /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .text.get_key  0x00000000       0x44 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000      0x874 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000       0x22 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000       0x2e /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000       0x10 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000      0x12d /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000      0x5b2 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000       0x18 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000      0x697 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000      0x11c /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00000000       0xca /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ COMMON         0x00000000       0x44 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o)
+ .text._snprintf_r
+                0x00000000       0x5c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+ .eh_frame      0x00000000       0x28 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfe /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb4 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-errno.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash64         0x00000000         0x00010000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc.a
+LOAD /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/librdimon.a
+LOAD ./tasks/src/commandsHandlerTask.o
+LOAD ./tasks/src/dataReceiverTask.o
+LOAD ./tasks/src/initTask.o
+LOAD ./tasks/src/instantPowerTask.o
+LOAD ./tasks/src/liveModeTask.o
+LOAD ./tasks/src/majTimestampTask.o
+LOAD ./src/FreeRTOS/portable/MemMang/heap_4.o
+LOAD ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+LOAD ./src/FreeRTOS/list.o
+LOAD ./src/FreeRTOS/queue.o
+LOAD ./src/FreeRTOS/tasks.o
+LOAD ./adc.o
+LOAD ./adctest.o
+LOAD ./cr_startup_lpc13u.o
+LOAD /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a
+LOAD /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a
+START GROUP
+LOAD /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a
+LOAD /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a
+LOAD /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libm.a
+LOAD /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a
+END GROUP
+                0x00010000                __top_MFlash64 = 0x10000
+                0x00010000                __top_Flash = 0x10000
+                0x10002000                __top_RamLoc8 = 0x10002000
+                0x10002000                __top_RAM = 0x10002000
+
+.text           0x00000000     0x3cf8
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./cr_startup_lpc13u.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x3cf8 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x7c SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x1000007c ADDR (.bss)
+                0x000000d0        0x4 LONG 0x16e8 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4      0x144 ./cr_startup_lpc13u.o
+                0x000000d4                data_init
+                0x00000118                bss_init
+                0x00000150                ResetISR
+                0x000001c8                NMI_Handler
+                0x000001d0                HardFault_Handler
+                0x000001d8                MemManage_Handler
+                0x000001e0                BusFault_Handler
+                0x000001e8                UsageFault_Handler
+                0x000001f8                DebugMon_Handler
+                0x00000210                CT16B0_IRQHandler
+                0x00000210                USART_IRQHandler
+                0x00000210                OSCFAIL_IRQHandler
+                0x00000210                CT16B1_IRQHandler
+                0x00000210                OSTIMER_IRQHandler
+                0x00000210                IntDefaultHandler
+                0x00000210                SSP0_IRQHandler
+                0x00000210                USBWakeup_IRQHandler
+                0x00000210                CT32B1_IRQHandler
+                0x00000210                PVTCIRCUIT_IRQHandler
+                0x00000210                USB_FIQHandler
+                0x00000210                ADC_IRQHandler
+                0x00000210                SSP1_IRQHandler
+                0x00000210                USB_IRQHandler
+                0x00000210                BOD_IRQHandler
+                0x00000210                I2C_IRQHandler
+                0x00000210                WDT_IRQHandler
+                0x00000210                CT32B0_IRQHandler
+                0x00000210                FMC_IRQHandler
+ *(.text*)
+ .text.commandsHandlerTask
+                0x00000218      0x108 ./tasks/src/commandsHandlerTask.o
+                0x00000218                commandsHandlerTask
+ .text.relayOn  0x00000320       0xac ./tasks/src/commandsHandlerTask.o
+                0x00000320                relayOn
+ .text.relayOff
+                0x000003cc       0xac ./tasks/src/commandsHandlerTask.o
+                0x000003cc                relayOff
+ .text.relayStatus
+                0x00000478       0xa4 ./tasks/src/commandsHandlerTask.o
+                0x00000478                relayStatus
+ .text.dataReceiverTask
+                0x0000051c      0x104 ./tasks/src/dataReceiverTask.o
+                0x0000051c                dataReceiverTask
+ .text.initTask
+                0x00000620       0xcc ./tasks/src/initTask.o
+                0x00000620                initTask
+ .text.instantPowerTask
+                0x000006ec       0xa8 ./tasks/src/instantPowerTask.o
+                0x000006ec                instantPowerTask
+ .text.sendTrame
+                0x00000794       0x3c ./tasks/src/liveModeTask.o
+                0x00000794                sendTrame
+ .text.liveModeTask
+                0x000007d0      0x150 ./tasks/src/liveModeTask.o
+                0x000007d0                liveModeTask
+ .text.majTimestampTask
+                0x00000920       0x54 ./tasks/src/majTimestampTask.o
+                0x00000920                majTimestampTask
+ .text.pvPortMalloc
+                0x00000974      0x158 ./src/FreeRTOS/portable/MemMang/heap_4.o
+                0x00000974                pvPortMalloc
+ .text.vPortFree
+                0x00000acc       0x94 ./src/FreeRTOS/portable/MemMang/heap_4.o
+                0x00000acc                vPortFree
+ .text.prvHeapInit
+                0x00000b60       0xc4 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .text.prvInsertBlockIntoFreeList
+                0x00000c24       0xb0 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .text.pxPortInitialiseStack
+                0x00000cd4       0x58 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000cd4                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x00000d2c       0x20 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .text.SVC_Handler
+                0x00000d4c       0x24 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000d4c                SVC_Handler
+ .text.prvPortStartFirstTask
+                0x00000d70       0x20 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .text.xPortStartScheduler
+                0x00000d90       0xbc ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000d90                xPortStartScheduler
+ .text.vPortYield
+                0x00000e4c       0x20 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000e4c                vPortYield
+ .text.vPortEnterCritical
+                0x00000e6c       0x3c ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000e6c                vPortEnterCritical
+ .text.vPortExitCritical
+                0x00000ea8       0x30 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000ea8                vPortExitCritical
+ .text.ulPortSetInterruptMask
+                0x00000ed8       0x14 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000ed8                ulPortSetInterruptMask
+ .text.vPortClearInterruptMask
+                0x00000eec        0x8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000eec                vPortClearInterruptMask
+ .text.PendSV_Handler
+                0x00000ef4       0x44 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000ef4                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000f38       0x28 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000f38                SysTick_Handler
+ .text.vPortSetupTimerInterrupt
+                0x00000f60       0x34 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000f60                vPortSetupTimerInterrupt
+ .text.vListInitialise
+                0x00000f94       0x40 ./src/FreeRTOS/list.o
+                0x00000f94                vListInitialise
+ .text.vListInitialiseItem
+                0x00000fd4       0x18 ./src/FreeRTOS/list.o
+                0x00000fd4                vListInitialiseItem
+ .text.vListInsertEnd
+                0x00000fec       0x48 ./src/FreeRTOS/list.o
+                0x00000fec                vListInsertEnd
+ .text.vListInsert
+                0x00001034       0x70 ./src/FreeRTOS/list.o
+                0x00001034                vListInsert
+ .text.uxListRemove
+                0x000010a4       0x54 ./src/FreeRTOS/list.o
+                0x000010a4                uxListRemove
+ .text.xQueueGenericReset
+                0x000010f8       0xb0 ./src/FreeRTOS/queue.o
+                0x000010f8                xQueueGenericReset
+ .text.xQueueGenericCreate
+                0x000011a8       0x9c ./src/FreeRTOS/queue.o
+                0x000011a8                xQueueGenericCreate
+ .text.xQueueGenericSend
+                0x00001244      0x16c ./src/FreeRTOS/queue.o
+                0x00001244                xQueueGenericSend
+ .text.xQueueGenericReceive
+                0x000013b0      0x19c ./src/FreeRTOS/queue.o
+                0x000013b0                xQueueGenericReceive
+ .text.uxQueueMessagesWaiting
+                0x0000154c       0x2c ./src/FreeRTOS/queue.o
+                0x0000154c                uxQueueMessagesWaiting
+ .text.prvCopyDataToQueue
+                0x00001578       0xdc ./src/FreeRTOS/queue.o
+ .text.prvCopyDataFromQueue
+                0x00001654       0x4c ./src/FreeRTOS/queue.o
+ .text.prvUnlockQueue
+                0x000016a0       0x98 ./src/FreeRTOS/queue.o
+ .text.prvIsQueueEmpty
+                0x00001738       0x2c ./src/FreeRTOS/queue.o
+ .text.prvIsQueueFull
+                0x00001764       0x30 ./src/FreeRTOS/queue.o
+ .text.xTaskGenericCreate
+                0x00001794      0x168 ./src/FreeRTOS/tasks.o
+                0x00001794                xTaskGenericCreate
+ .text.vTaskDelay
+                0x000018fc       0x84 ./src/FreeRTOS/tasks.o
+                0x000018fc                vTaskDelay
+ .text.vTaskSuspend
+                0x00001980       0xf0 ./src/FreeRTOS/tasks.o
+                0x00001980                vTaskSuspend
+ .text.prvTaskIsTaskSuspended
+                0x00001a70       0x64 ./src/FreeRTOS/tasks.o
+ .text.vTaskResume
+                0x00001ad4       0x9c ./src/FreeRTOS/tasks.o
+                0x00001ad4                vTaskResume
+ .text.vTaskStartScheduler
+                0x00001b70       0x64 ./src/FreeRTOS/tasks.o
+                0x00001b70                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x00001bd4       0x1c ./src/FreeRTOS/tasks.o
+                0x00001bd4                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x00001bf0      0x10c ./src/FreeRTOS/tasks.o
+                0x00001bf0                xTaskResumeAll
+ .text.xTaskIncrementTick
+                0x00001cfc      0x170 ./src/FreeRTOS/tasks.o
+                0x00001cfc                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x00001e6c       0xa0 ./src/FreeRTOS/tasks.o
+                0x00001e6c                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x00001f0c       0x8c ./src/FreeRTOS/tasks.o
+                0x00001f0c                vTaskPlaceOnEventList
+ .text.xTaskRemoveFromEventList
+                0x00001f98       0xb8 ./src/FreeRTOS/tasks.o
+                0x00001f98                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x00002050       0x34 ./src/FreeRTOS/tasks.o
+                0x00002050                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00002084       0xa0 ./src/FreeRTOS/tasks.o
+                0x00002084                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x00002124       0x18 ./src/FreeRTOS/tasks.o
+                0x00002124                vTaskMissedYield
+ .text.prvIdleTask
+                0x0000213c       0x20 ./src/FreeRTOS/tasks.o
+ .text.prvInitialiseTCBVariables
+                0x0000215c       0xa4 ./src/FreeRTOS/tasks.o
+ .text.prvInitialiseTaskLists
+                0x00002200       0x7c ./src/FreeRTOS/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x0000227c       0x74 ./src/FreeRTOS/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x000022f0       0x6c ./src/FreeRTOS/tasks.o
+ .text.prvAllocateTCBAndStack
+                0x0000235c       0x70 ./src/FreeRTOS/tasks.o
+ .text.prvDeleteTCB
+                0x000023cc       0x20 ./src/FreeRTOS/tasks.o
+ .text.prvResetNextTaskUnblockTime
+                0x000023ec       0x48 ./src/FreeRTOS/tasks.o
+ .text.vTaskPriorityInherit
+                0x00002434       0xf0 ./src/FreeRTOS/tasks.o
+                0x00002434                vTaskPriorityInherit
+ .text.xTaskPriorityDisinherit
+                0x00002524       0xf0 ./src/FreeRTOS/tasks.o
+                0x00002524                xTaskPriorityDisinherit
+ .text.pvTaskIncrementMutexHeldCount
+                0x00002614       0x28 ./src/FreeRTOS/tasks.o
+                0x00002614                pvTaskIncrementMutexHeldCount
+ .text.ADCInit  0x0000263c       0x78 ./adc.o
+                0x0000263c                ADCInit
+ .text.ADCRead  0x000026b4       0x40 ./adc.o
+                0x000026b4                ADCRead
+ .text.main     0x000026f4      0x130 ./adctest.o
+                0x000026f4                main
+ .text.SystemCoreClockUpdate
+                0x00002824       0x9c /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+                0x00002824                SystemCoreClockUpdate
+ .text.SystemInit
+                0x000028c0       0x54 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+                0x000028c0                SystemInit
+ .text.PIN_INT0_IRQHandler
+                0x00002914       0xa8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002914                PIN_INT0_IRQHandler
+ .text.PIN_INT1_IRQHandler
+                0x000029bc       0xa8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x000029bc                PIN_INT1_IRQHandler
+ .text.PIN_INT2_IRQHandler
+                0x00002a64       0xa8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002a64                PIN_INT2_IRQHandler
+ .text.PIN_INT3_IRQHandler
+                0x00002b0c       0xa8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002b0c                PIN_INT3_IRQHandler
+ .text.PIN_INT4_IRQHandler
+                0x00002bb4       0xa8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002bb4                PIN_INT4_IRQHandler
+ .text.PIN_INT5_IRQHandler
+                0x00002c5c       0xa8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002c5c                PIN_INT5_IRQHandler
+ .text.PIN_INT6_IRQHandler
+                0x00002d04       0xa8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002d04                PIN_INT6_IRQHandler
+ .text.PIN_INT7_IRQHandler
+                0x00002dac       0xa8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002dac                PIN_INT7_IRQHandler
+ .text.GINT0_IRQHandler
+                0x00002e54       0x64 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002e54                GINT0_IRQHandler
+ .text.GINT1_IRQHandler
+                0x00002eb8       0x64 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002eb8                GINT1_IRQHandler
+ .text.GPIOInit
+                0x00002f1c       0x34 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002f1c                GPIOInit
+ .text.GPIOGetPinValue
+                0x00002f50       0x5c /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002f50                GPIOGetPinValue
+ .text.GPIOSetBitValue
+                0x00002fac       0x50 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002fac                GPIOSetBitValue
+ .text.GPIOSetDir
+                0x00002ffc       0x70 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x00002ffc                GPIOSetDir
+ .text.NVIC_DisableIRQ
+                0x0000306c       0x34 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .text.UARTInit
+                0x000030a0       0xec /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+                0x000030a0                UARTInit
+ .text.UARTSend
+                0x0000318c       0x44 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+                0x0000318c                UARTSend
+ .text.print_string
+                0x000031d0       0x40 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+                0x000031d0                print_string
+ .text.memcpy   0x00003210       0x16 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+                0x00003210                memcpy
+ .text.memset   0x00003226       0x10 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+                0x00003226                memset
+ *fill*         0x00003236        0x2 
+ .text.snprintf
+                0x00003238       0x64 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o)
+                0x00003238                snprintf
+                0x00003238                sniprintf
+ .text          0x0000329c       0x14 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+                0x0000329c                strcmp
+ .text.strlen   0x000032b0       0x10 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+                0x000032b0                strlen
+ .text.__ssputs_r
+                0x000032c0       0xb2 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x000032c0                __ssputs_r
+ *fill*         0x00003372        0x2 
+ .text._svfprintf_r
+                0x00003374      0x1e4 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x00003374                _svfprintf_r
+                0x00003374                _svfiprintf_r
+ .text._printf_common
+                0x00003558       0xea /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00003558                _printf_common
+ *fill*         0x00003642        0x2 
+ .text._printf_i
+                0x00003644      0x240 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00003644                _printf_i
+ .text.memchr   0x00003884       0x1c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+                0x00003884                memchr
+ .text.memmove  0x000038a0       0x36 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+                0x000038a0                memmove
+ *fill*         0x000038d6        0x2 
+ .text._free_r  0x000038d8       0x88 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+                0x000038d8                _free_r
+ .text._malloc_r
+                0x00003960       0xac /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00003960                _malloc_r
+ .text._realloc_r
+                0x00003a0c       0x4c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                0x00003a0c                _realloc_r
+ .text._sbrk_r  0x00003a58       0x20 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+                0x00003a58                _sbrk_r
+ .text._malloc_usable_size_r
+                0x00003a78       0x14 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+                0x00003a78                _malloc_usable_size_r
+ .text._sbrk    0x00003a8c       0x3c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+                0x00003a8c                _sbrk
+ .text.__check_heap_overflow
+                0x00003ac8       0x18 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+                0x00003ac8                __check_heap_overflow
+ .text.__errno  0x00003ae0        0xc /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-errno.o)
+                0x00003ae0                __errno
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x00003aec       0xb0 ./tasks/src/commandsHandlerTask.o
+ .rodata        0x00003b9c       0x3f ./tasks/src/liveModeTask.o
+ *fill*         0x00003bdb        0x1 
+ .rodata        0x00003bdc        0x5 ./src/FreeRTOS/tasks.o
+ *fill*         0x00003be1        0x3 
+ .rodata        0x00003be4       0x9d ./adctest.o
+ *fill*         0x00003c81        0x3 
+ .rodata.CSWTCH.5
+                0x00003c84       0x3c /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .rodata.str1.1
+                0x00003cc0        0x2 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x00003cc2       0x11 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .rodata.str1.1
+                0x00003cd3       0x22 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00003cf8                . = ALIGN (0x4)
+ *fill*         0x00003cf5        0x3 ff
+
+.glue_7         0x00003cf8        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00003cf8        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00003cf8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00003cf8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00003cf8        0x0
+ .iplt          0x00000000        0x0 ./tasks/src/commandsHandlerTask.o
+
+.rel.dyn        0x00003cf8        0x0
+ .rel.iplt      0x00000000        0x0 ./tasks/src/commandsHandlerTask.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00003cf8                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00003cf8                __exidx_end = .
+                0x00003cf8                _etext = .
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x7c load address 0x00003cf8
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.uxCriticalNesting
+                0x10000000        0x4 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .data.xNextTaskUnblockTime
+                0x10000004        0x4 ./src/FreeRTOS/tasks.o
+ .data.timestamp
+                0x10000008        0x4 ./adctest.o
+                0x10000008                timestamp
+ .data.fanion   0x1000000c        0x1 ./adctest.o
+                0x1000000c                fanion
+ *fill*         0x1000000d        0x3 
+ .data.SystemCoreClock
+                0x10000010        0x4 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+                0x10000010                SystemCoreClock
+ .data.UARTTxEmpty
+                0x10000014        0x1 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+                0x10000014                UARTTxEmpty
+ *fill*         0x10000015        0x3 
+ .data.impure_data
+                0x10000018       0x60 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x10000078        0x4 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+                0x10000078                _impure_ptr
+                0x1000007c                . = ALIGN (0x4)
+                0x1000007c                _edata = .
+
+.igot.plt       0x1000007c        0x0 load address 0x00003d74
+ .igot.plt      0x00000000        0x0 ./tasks/src/commandsHandlerTask.o
+
+.bss            0x1000007c     0x16e8 load address 0x00003d74
+                0x1000007c                _bss = .
+ *(.bss*)
+ .bss.fifo      0x1000007c       0x40 ./tasks/src/dataReceiverTask.o
+ .bss.i         0x100000bc        0x1 ./tasks/src/dataReceiverTask.o
+ *fill*         0x100000bd        0x3 
+ .bss.instPower
+                0x100000c0        0x4 ./tasks/src/instantPowerTask.o
+ .bss.instPowerTmp
+                0x100000c4        0x4 ./tasks/src/instantPowerTask.o
+ .bss.i         0x100000c8        0x1 ./tasks/src/instantPowerTask.o
+ *fill*         0x100000c9        0x3 
+ .bss.ucHeap    0x100000cc     0x1400 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xStart    0x100014cc        0x8 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.pxEnd     0x100014d4        0x4 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x100014d8        0x4 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x100014dc        0x4 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xBlockAllocatedBit
+                0x100014e0        0x4 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.ucMaxSysCallPriority
+                0x100014e4        0x1 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ *fill*         0x100014e5        0x3 
+ .bss.ulMaxPRIGROUPValue
+                0x100014e8        0x4 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .bss.pxCurrentTCB
+                0x100014ec        0x4 ./src/FreeRTOS/tasks.o
+                0x100014ec                pxCurrentTCB
+ .bss.pxReadyTasksLists
+                0x100014f0       0xa0 ./src/FreeRTOS/tasks.o
+ .bss.xDelayedTaskList1
+                0x10001590       0x14 ./src/FreeRTOS/tasks.o
+ .bss.xDelayedTaskList2
+                0x100015a4       0x14 ./src/FreeRTOS/tasks.o
+ .bss.pxDelayedTaskList
+                0x100015b8        0x4 ./src/FreeRTOS/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x100015bc        0x4 ./src/FreeRTOS/tasks.o
+ .bss.xPendingReadyList
+                0x100015c0       0x14 ./src/FreeRTOS/tasks.o
+ .bss.xTasksWaitingTermination
+                0x100015d4       0x14 ./src/FreeRTOS/tasks.o
+ .bss.uxTasksDeleted
+                0x100015e8        0x4 ./src/FreeRTOS/tasks.o
+ .bss.xSuspendedTaskList
+                0x100015ec       0x14 ./src/FreeRTOS/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x10001600        0x4 ./src/FreeRTOS/tasks.o
+ .bss.xTickCount
+                0x10001604        0x4 ./src/FreeRTOS/tasks.o
+ .bss.uxTopReadyPriority
+                0x10001608        0x4 ./src/FreeRTOS/tasks.o
+ .bss.xSchedulerRunning
+                0x1000160c        0x4 ./src/FreeRTOS/tasks.o
+ .bss.uxPendedTicks
+                0x10001610        0x4 ./src/FreeRTOS/tasks.o
+ .bss.xYieldPending
+                0x10001614        0x4 ./src/FreeRTOS/tasks.o
+ .bss.xNumOfOverflows
+                0x10001618        0x4 ./src/FreeRTOS/tasks.o
+ .bss.uxTaskNumber
+                0x1000161c        0x4 ./src/FreeRTOS/tasks.o
+ .bss.uxSchedulerSuspended
+                0x10001620        0x4 ./src/FreeRTOS/tasks.o
+ .bss.lastInstPowerValue
+                0x10001624        0x4 ./adctest.o
+                0x10001624                lastInstPowerValue
+ .bss.lMHandle  0x10001628        0x4 ./adctest.o
+                0x10001628                lMHandle
+ .bss.xSemaphore
+                0x1000162c        0x4 ./adctest.o
+                0x1000162c                xSemaphore
+ .bss.xSemaphoreInstPower
+                0x10001630        0x4 ./adctest.o
+                0x10001630                xSemaphoreInstPower
+ .bss.xSemaphoreTimestamp
+                0x10001634        0x4 ./adctest.o
+                0x10001634                xSemaphoreTimestamp
+ .bss.pin_int0_counter
+                0x10001638        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001638                pin_int0_counter
+ .bss.pin_int1_counter
+                0x1000163c        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x1000163c                pin_int1_counter
+ .bss.pin_int2_counter
+                0x10001640        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001640                pin_int2_counter
+ .bss.pin_int3_counter
+                0x10001644        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001644                pin_int3_counter
+ .bss.pin_int4_counter
+                0x10001648        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001648                pin_int4_counter
+ .bss.pin_int5_counter
+                0x1000164c        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x1000164c                pin_int5_counter
+ .bss.pin_int6_counter
+                0x10001650        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001650                pin_int6_counter
+ .bss.pin_int7_counter
+                0x10001654        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001654                pin_int7_counter
+ .bss.gint0_counter
+                0x10001658        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001658                gint0_counter
+ .bss.gint1_counter
+                0x1000165c        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x1000165c                gint1_counter
+ .bss.pin_int0_level_counter
+                0x10001660        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001660                pin_int0_level_counter
+ .bss.pin_int0_rising_edge_counter
+                0x10001664        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001664                pin_int0_rising_edge_counter
+ .bss.pin_int0_falling_edge_counter
+                0x10001668        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001668                pin_int0_falling_edge_counter
+ .bss.pin_int1_level_counter
+                0x1000166c        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x1000166c                pin_int1_level_counter
+ .bss.pin_int1_rising_edge_counter
+                0x10001670        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001670                pin_int1_rising_edge_counter
+ .bss.pin_int1_falling_edge_counter
+                0x10001674        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001674                pin_int1_falling_edge_counter
+ .bss.pin_int2_level_counter
+                0x10001678        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001678                pin_int2_level_counter
+ .bss.pin_int2_rising_edge_counter
+                0x1000167c        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x1000167c                pin_int2_rising_edge_counter
+ .bss.pin_int2_falling_edge_counter
+                0x10001680        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001680                pin_int2_falling_edge_counter
+ .bss.pin_int3_level_counter
+                0x10001684        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001684                pin_int3_level_counter
+ .bss.pin_int3_rising_edge_counter
+                0x10001688        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001688                pin_int3_rising_edge_counter
+ .bss.pin_int3_falling_edge_counter
+                0x1000168c        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x1000168c                pin_int3_falling_edge_counter
+ .bss.pin_int4_level_counter
+                0x10001690        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001690                pin_int4_level_counter
+ .bss.pin_int4_rising_edge_counter
+                0x10001694        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001694                pin_int4_rising_edge_counter
+ .bss.pin_int4_falling_edge_counter
+                0x10001698        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x10001698                pin_int4_falling_edge_counter
+ .bss.pin_int5_level_counter
+                0x1000169c        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x1000169c                pin_int5_level_counter
+ .bss.pin_int5_rising_edge_counter
+                0x100016a0        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016a0                pin_int5_rising_edge_counter
+ .bss.pin_int5_falling_edge_counter
+                0x100016a4        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016a4                pin_int5_falling_edge_counter
+ .bss.pin_int6_level_counter
+                0x100016a8        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016a8                pin_int6_level_counter
+ .bss.pin_int6_rising_edge_counter
+                0x100016ac        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016ac                pin_int6_rising_edge_counter
+ .bss.pin_int6_falling_edge_counter
+                0x100016b0        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016b0                pin_int6_falling_edge_counter
+ .bss.pin_int7_level_counter
+                0x100016b4        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016b4                pin_int7_level_counter
+ .bss.pin_int7_rising_edge_counter
+                0x100016b8        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016b8                pin_int7_rising_edge_counter
+ .bss.pin_int7_falling_edge_counter
+                0x100016bc        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016bc                pin_int7_falling_edge_counter
+ .bss.gint0_level_counter
+                0x100016c0        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016c0                gint0_level_counter
+ .bss.gint0_edge_counter
+                0x100016c4        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016c4                gint0_edge_counter
+ .bss.gint1_level_counter
+                0x100016c8        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016c8                gint1_level_counter
+ .bss.gint1_edge_counter
+                0x100016cc        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                0x100016cc                gint1_edge_counter
+ .bss.UARTCount
+                0x100016d0        0x4 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+                0x100016d0                UARTCount
+ .bss.__malloc_sbrk_start
+                0x100016d4        0x4 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x100016d4                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x100016d8        0x4 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x100016d8                __malloc_free_list
+ *(COMMON)
+ COMMON         0x100016dc       0x41 ./tasks/src/commandsHandlerTask.o
+                0x100016dc                buffCommandsHandler
+                0x1000171c                iBuff
+ *fill*         0x1000171d        0x3 
+ COMMON         0x10001720       0x32 ./tasks/src/liveModeTask.o
+                0x10001720                trame
+ *fill*         0x10001752        0x2 
+ COMMON         0x10001754        0x8 ./adctest.o
+                0x10001754                xQueueOutput
+                0x10001758                xQueueInput
+ COMMON         0x1000175c        0x4 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+                0x1000175c                errno
+ COMMON         0x10001760        0x4 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+                0x10001760                __end_of_heap
+                0x10001764                . = ALIGN (0x4)
+                0x10001764                _ebss = .
+                0x10001764                PROVIDE (end, .)
+
+.noinit         0x10001764        0x0 load address 0x00003d74
+                0x10001764                _noinit = .
+ *(.noinit*)
+                0x10001764                . = ALIGN (0x4)
+                0x10001764                _end_noinit = .
+                0x10001764                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10002000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc8 - 0x0))
+                0xefffd572                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(ADC.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x694a
+ .debug_info    0x00000000      0x281 ./tasks/src/commandsHandlerTask.o
+ .debug_info    0x00000281      0x2f5 ./tasks/src/dataReceiverTask.o
+ .debug_info    0x00000576      0x13e ./tasks/src/initTask.o
+ .debug_info    0x000006b4      0x143 ./tasks/src/instantPowerTask.o
+ .debug_info    0x000007f7      0x1d6 ./tasks/src/liveModeTask.o
+ .debug_info    0x000009cd       0xfc ./tasks/src/majTimestampTask.o
+ .debug_info    0x00000ac9      0x2fe ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_info    0x00000dc7      0x326 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_info    0x000010ed      0x2a1 ./src/FreeRTOS/list.o
+ .debug_info    0x0000138e      0xc05 ./src/FreeRTOS/queue.o
+ .debug_info    0x00001f93     0x1513 ./src/FreeRTOS/tasks.o
+ .debug_info    0x000034a6      0x9f1 ./adc.o
+ .debug_info    0x00003e97      0x1f8 ./adctest.o
+ .debug_info    0x0000408f      0x2ac ./cr_startup_lpc13u.o
+ .debug_info    0x0000433b      0x55b /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_info    0x00004896     0x111d /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_info    0x000059b3      0xe00 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_info    0x000067b3      0x12d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_info    0x000068e0       0x6a /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+
+.debug_abbrev   0x00000000     0x1624
+ .debug_abbrev  0x00000000       0xc5 ./tasks/src/commandsHandlerTask.o
+ .debug_abbrev  0x000000c5      0x137 ./tasks/src/dataReceiverTask.o
+ .debug_abbrev  0x000001fc       0x7b ./tasks/src/initTask.o
+ .debug_abbrev  0x00000277       0x99 ./tasks/src/instantPowerTask.o
+ .debug_abbrev  0x00000310       0xb6 ./tasks/src/liveModeTask.o
+ .debug_abbrev  0x000003c6       0x7b ./tasks/src/majTimestampTask.o
+ .debug_abbrev  0x00000441      0x15b ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_abbrev  0x0000059c      0x1b8 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_abbrev  0x00000754       0xc1 ./src/FreeRTOS/list.o
+ .debug_abbrev  0x00000815      0x192 ./src/FreeRTOS/queue.o
+ .debug_abbrev  0x000009a7      0x279 ./src/FreeRTOS/tasks.o
+ .debug_abbrev  0x00000c20      0x184 ./adc.o
+ .debug_abbrev  0x00000da4       0x95 ./adctest.o
+ .debug_abbrev  0x00000e39      0x116 ./cr_startup_lpc13u.o
+ .debug_abbrev  0x00000f4f       0xea /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_abbrev  0x00001039      0x246 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_abbrev  0x0000127f      0x24d /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_abbrev  0x000014cc       0xf6 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_abbrev  0x000015c2       0x62 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+
+.debug_aranges  0x00000000      0x6f8
+ .debug_aranges
+                0x00000000       0x40 ./tasks/src/commandsHandlerTask.o
+ .debug_aranges
+                0x00000040       0x20 ./tasks/src/dataReceiverTask.o
+ .debug_aranges
+                0x00000060       0x20 ./tasks/src/initTask.o
+ .debug_aranges
+                0x00000080       0x20 ./tasks/src/instantPowerTask.o
+ .debug_aranges
+                0x000000a0       0x28 ./tasks/src/liveModeTask.o
+ .debug_aranges
+                0x000000c8       0x20 ./tasks/src/majTimestampTask.o
+ .debug_aranges
+                0x000000e8       0x50 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_aranges
+                0x00000138       0x90 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_aranges
+                0x000001c8       0x40 ./src/FreeRTOS/list.o
+ .debug_aranges
+                0x00000208       0xf8 ./src/FreeRTOS/queue.o
+ .debug_aranges
+                0x00000300      0x1a8 ./src/FreeRTOS/tasks.o
+ .debug_aranges
+                0x000004a8       0x30 ./adc.o
+ .debug_aranges
+                0x000004d8       0x20 ./adctest.o
+ .debug_aranges
+                0x000004f8       0x80 ./cr_startup_lpc13u.o
+ .debug_aranges
+                0x00000578       0x28 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_aranges
+                0x000005a0       0xc8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_aranges
+                0x00000668       0x50 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_aranges
+                0x000006b8       0x20 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_aranges
+                0x000006d8       0x20 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+
+.debug_ranges   0x00000000      0x5c8
+ .debug_ranges  0x00000000       0x30 ./tasks/src/commandsHandlerTask.o
+ .debug_ranges  0x00000030       0x10 ./tasks/src/dataReceiverTask.o
+ .debug_ranges  0x00000040       0x10 ./tasks/src/initTask.o
+ .debug_ranges  0x00000050       0x10 ./tasks/src/instantPowerTask.o
+ .debug_ranges  0x00000060       0x18 ./tasks/src/liveModeTask.o
+ .debug_ranges  0x00000078       0x10 ./tasks/src/majTimestampTask.o
+ .debug_ranges  0x00000088       0x40 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_ranges  0x000000c8       0x80 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_ranges  0x00000148       0x30 ./src/FreeRTOS/list.o
+ .debug_ranges  0x00000178       0xe8 ./src/FreeRTOS/queue.o
+ .debug_ranges  0x00000260      0x198 ./src/FreeRTOS/tasks.o
+ .debug_ranges  0x000003f8       0x20 ./adc.o
+ .debug_ranges  0x00000418       0x10 ./adctest.o
+ .debug_ranges  0x00000428       0x70 ./cr_startup_lpc13u.o
+ .debug_ranges  0x00000498       0x18 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_ranges  0x000004b0       0xb8 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_ranges  0x00000568       0x40 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_ranges  0x000005a8       0x10 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_ranges  0x000005b8       0x10 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+
+.debug_macro    0x00000000     0x5a1c
+ .debug_macro   0x00000000      0x275 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00000275      0x874 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00000ae9      0x166 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00000c4f       0x22 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00000c71       0x44 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00000cb5       0x58 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00000d0d       0x22 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00000d2f      0x1df ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00000f0e      0x115 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00001023       0x5e ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00001081       0xd9 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000115a       0x10 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000116a       0x1f ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00001189      0x384 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000150d       0xc0 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000015cd       0x8c ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00001659       0xb0 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00001709       0x7f ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00001788       0x64 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000017ec       0x16 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00001802       0xca ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000018cc       0x52 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000191e       0x22 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00001940       0x2e ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000196e       0x18 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00001986      0x697 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000201d      0x11c ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00002139       0x58 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00002191       0x35 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000021c6       0x9c ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00002262       0x52 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000022b4       0x16 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000022ca       0x43 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000230d      0x180 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000248d      0x29d ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000272a       0x10 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000273a       0x35 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000276f       0x16 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00002785       0x16 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x0000279b       0x29 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000027c4       0x1c ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000027e0       0x10 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000027f0       0x10 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00002800       0x22 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00002822       0xbe ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000028e0       0x16 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x000028f6      0x197 ./tasks/src/commandsHandlerTask.o
+ .debug_macro   0x00002a8d      0x117 ./tasks/src/dataReceiverTask.o
+ .debug_macro   0x00002ba4      0x109 ./tasks/src/initTask.o
+ .debug_macro   0x00002cad      0x105 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00002db2       0x64 ./tasks/src/instantPowerTask.o
+ .debug_macro   0x00002e16      0x1f8 ./tasks/src/liveModeTask.o
+ .debug_macro   0x0000300e       0x16 ./tasks/src/liveModeTask.o
+ .debug_macro   0x00003024       0x16 ./tasks/src/liveModeTask.o
+ .debug_macro   0x0000303a       0xf3 ./tasks/src/majTimestampTask.o
+ .debug_macro   0x0000312d      0x19d ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x000032ca      0x10e ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x000033d8       0x7f ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x00003457       0x4a ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x000034a1      0x16f ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_macro   0x00003610      0x176 ./src/FreeRTOS/list.o
+ .debug_macro   0x00003786      0x1e8 ./src/FreeRTOS/queue.o
+ .debug_macro   0x0000396e      0x224 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00003b92       0x91 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00003c23       0x16 ./src/FreeRTOS/tasks.o
+ .debug_macro   0x00003c39       0x9c ./adc.o
+ .debug_macro   0x00003cd5      0x177 ./adctest.o
+ .debug_macro   0x00003e4c      0x115 ./adctest.o
+ .debug_macro   0x00003f61       0x99 ./cr_startup_lpc13u.o
+ .debug_macro   0x00003ffa      0x116 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x00004110      0x87a /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x0000498a       0x10 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x0000499a      0x12d /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x00004ac7      0x5b2 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_macro   0x00005079       0x7e /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x000050f7      0x874 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_macro   0x0000596b       0x95 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_macro   0x00005a00       0x1c /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+
+.debug_line     0x00000000     0x55a9
+ .debug_line    0x00000000      0x5e2 ./tasks/src/commandsHandlerTask.o
+ .debug_line    0x000005e2      0x439 ./tasks/src/dataReceiverTask.o
+ .debug_line    0x00000a1b      0x42a ./tasks/src/initTask.o
+ .debug_line    0x00000e45      0x3f7 ./tasks/src/instantPowerTask.o
+ .debug_line    0x0000123c      0x502 ./tasks/src/liveModeTask.o
+ .debug_line    0x0000173e      0x3cd ./tasks/src/majTimestampTask.o
+ .debug_line    0x00001b0b      0x517 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_line    0x00002022      0x4e4 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_line    0x00002506      0x45b ./src/FreeRTOS/list.o
+ .debug_line    0x00002961      0x998 ./src/FreeRTOS/queue.o
+ .debug_line    0x000032f9      0xd2c ./src/FreeRTOS/tasks.o
+ .debug_line    0x00004025      0x290 ./adc.o
+ .debug_line    0x000042b5      0x4e1 ./adctest.o
+ .debug_line    0x00004796      0x2e1 ./cr_startup_lpc13u.o
+ .debug_line    0x00004a77      0x1e0 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_line    0x00004c57      0x4dd /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_line    0x00005134      0x327 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_line    0x0000545b      0x101 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_line    0x0000555c       0x4d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+
+.debug_str      0x00000000    0x1320d
+ .debug_str     0x00000000     0xd6c0 ./tasks/src/commandsHandlerTask.o
+                               0xd934 (size before relaxing)
+ .debug_str     0x0000d6c0       0xa7 ./tasks/src/dataReceiverTask.o
+                               0x9e60 (size before relaxing)
+ .debug_str     0x0000d767       0x6a ./tasks/src/initTask.o
+                               0x7814 (size before relaxing)
+ .debug_str     0x0000d7d1      0x17a ./tasks/src/instantPowerTask.o
+                               0x77c4 (size before relaxing)
+ .debug_str     0x0000d94b       0x87 ./tasks/src/liveModeTask.o
+                               0xa72f (size before relaxing)
+ .debug_str     0x0000d9d2       0x45 ./tasks/src/majTimestampTask.o
+                               0x7529 (size before relaxing)
+ .debug_str     0x0000da17      0x292 ./src/FreeRTOS/portable/MemMang/heap_4.o
+                               0x882d (size before relaxing)
+ .debug_str     0x0000dca9      0x705 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+                               0x6a6a (size before relaxing)
+ .debug_str     0x0000e3ae      0x122 ./src/FreeRTOS/list.o
+                               0x813f (size before relaxing)
+ .debug_str     0x0000e4d0      0x6f5 ./src/FreeRTOS/queue.o
+                               0x981d (size before relaxing)
+ .debug_str     0x0000ebc5     0x187d ./src/FreeRTOS/tasks.o
+                               0xa05c (size before relaxing)
+ .debug_str     0x00010442      0x4e9 ./adc.o
+                               0x66d8 (size before relaxing)
+ .debug_str     0x0001092b       0x5f ./adctest.o
+                               0xaa9b (size before relaxing)
+ .debug_str     0x0001098a      0x18f ./cr_startup_lpc13u.o
+                               0x6255 (size before relaxing)
+ .debug_str     0x00010b19     0x1b1c /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+                               0x71fd (size before relaxing)
+ .debug_str     0x00012635      0x8b5 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+                               0x77e5 (size before relaxing)
+ .debug_str     0x00012eea      0x184 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+                               0x7770 (size before relaxing)
+ .debug_str     0x0001306e      0x17a /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+                                0x213 (size before relaxing)
+ .debug_str     0x000131e8       0x25 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+                                0x161 (size before relaxing)
+
+.comment        0x00000000       0xe0
+ .comment       0x00000000       0x70 ./tasks/src/commandsHandlerTask.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./tasks/src/dataReceiverTask.o
+ .comment       0x00000000       0x71 ./tasks/src/initTask.o
+ .comment       0x00000000       0x71 ./tasks/src/instantPowerTask.o
+ .comment       0x00000000       0x71 ./tasks/src/liveModeTask.o
+ .comment       0x00000000       0x71 ./tasks/src/majTimestampTask.o
+ .comment       0x00000000       0x71 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .comment       0x00000000       0x71 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .comment       0x00000000       0x71 ./src/FreeRTOS/list.o
+ .comment       0x00000000       0x71 ./src/FreeRTOS/queue.o
+ .comment       0x00000000       0x71 ./src/FreeRTOS/tasks.o
+ .comment       0x00000000       0x71 ./adc.o
+ .comment       0x00000000       0x71 ./adctest.o
+ .comment       0x00000000       0x71 ./cr_startup_lpc13u.o
+ .comment       0x00000000       0x71 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .comment       0x00000000       0x71 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .comment       0x00000000       0x71 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .comment       0x00000070       0x70 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./tasks/src/commandsHandlerTask.o
+ .ARM.attributes
+                0x00000033       0x33 ./tasks/src/dataReceiverTask.o
+ .ARM.attributes
+                0x00000066       0x33 ./tasks/src/initTask.o
+ .ARM.attributes
+                0x00000099       0x33 ./tasks/src/instantPowerTask.o
+ .ARM.attributes
+                0x000000cc       0x33 ./tasks/src/liveModeTask.o
+ .ARM.attributes
+                0x000000ff       0x33 ./tasks/src/majTimestampTask.o
+ .ARM.attributes
+                0x00000132       0x33 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .ARM.attributes
+                0x00000165       0x33 ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .ARM.attributes
+                0x00000198       0x33 ./src/FreeRTOS/list.o
+ .ARM.attributes
+                0x000001cb       0x33 ./src/FreeRTOS/queue.o
+ .ARM.attributes
+                0x000001fe       0x33 ./src/FreeRTOS/tasks.o
+ .ARM.attributes
+                0x00000231       0x33 ./adc.o
+ .ARM.attributes
+                0x00000264       0x33 ./adctest.o
+ .ARM.attributes
+                0x00000297       0x33 ./cr_startup_lpc13u.o
+ .ARM.attributes
+                0x000002ca       0x33 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .ARM.attributes
+                0x000002fd       0x33 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .ARM.attributes
+                0x00000330       0x33 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .ARM.attributes
+                0x00000363       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000390       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000003bd       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o)
+ .ARM.attributes
+                0x000003ea       0x1b /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000405       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000432       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000045f       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x0000048c       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000004b9       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000004e6       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000513       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000540       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000056d       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x0000059a       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000005c7       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x000005f4       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000621       0x33 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x00000654       0x33 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+ .ARM.attributes
+                0x00000687       0x2d /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-errno.o)
+
+.debug_frame    0x00000000     0x1ae0
+ .debug_frame   0x00000000       0xc0 ./tasks/src/commandsHandlerTask.o
+ .debug_frame   0x000000c0       0x30 ./tasks/src/dataReceiverTask.o
+ .debug_frame   0x000000f0       0x30 ./tasks/src/initTask.o
+ .debug_frame   0x00000120       0x30 ./tasks/src/instantPowerTask.o
+ .debug_frame   0x00000150       0x54 ./tasks/src/liveModeTask.o
+ .debug_frame   0x000001a4       0x30 ./tasks/src/majTimestampTask.o
+ .debug_frame   0x000001d4      0x108 ./src/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_frame   0x000002dc      0x19c ./src/FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_frame   0x00000478       0xd8 ./src/FreeRTOS/list.o
+ .debug_frame   0x00000550      0x41c ./src/FreeRTOS/queue.o
+ .debug_frame   0x0000096c      0x720 ./src/FreeRTOS/tasks.o
+ .debug_frame   0x0000108c       0x80 ./adc.o
+ .debug_frame   0x0000110c       0x30 ./adctest.o
+ .debug_frame   0x0000113c      0x170 ./cr_startup_lpc13u.o
+ .debug_frame   0x000012ac       0x38 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_frame   0x000012e4      0x320 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(gpio.o)
+ .debug_frame   0x00001604      0x124 /home/jeremy/LPCXpresso/workspace/LPC13Uxx_DriverLib/Debug/libLPC13Uxx_DriverLib.a(uart.o)
+ .debug_frame   0x00001728       0x28 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x00001750       0x20 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00001770       0x74 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-snprintf.o)
+ .debug_frame   0x000017e4       0x20 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .debug_frame   0x00001804       0x8c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00001890       0x58 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x000018e8       0x28 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .debug_frame   0x00001910       0x28 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00001938       0x2c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00001964       0x2c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00001990       0x3c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x000019cc       0x2c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x000019f8       0x20 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00001a18       0x5c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00001a74       0x2c /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_frame   0x00001aa0       0x20 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
+ .debug_frame   0x00001ac0       0x20 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-errno.o)
+
+.debug_loc      0x00000000       0xf4
+ .debug_loc     0x00000000       0x73 /home/jeremy/LPCXpresso/workspace/CMSISv2p10_LPC13Uxx/Debug/libCMSISv2p10_LPC13Uxx.a(system_LPC13Uxx.o)
+ .debug_loc     0x00000073       0x47 /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_sbrk.o)
+ .debug_loc     0x000000ba       0x3a /usr/local/lpcxpresso_7.9.0_455/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libcr_newlib_semihost.a(_cr_check_heap.o)
