@@ -1,0 +1,37 @@
+
+Range of interval of time for energy counter snapshot: 5 min. - 60 min.
+
+Note: In theory it can be between 244 µS to 255 hours but for now we
+will restrict to the above range.
+
+* Initialization of Control_1, Control_2 and Control_3 registers the first time
+the mobile application connects to the device.
+
+Control_1 register = 0x80
+   CAP_SEL = 1 //12.5 pf load capacitance choosen
+   T must be 0 as specified in the datasheet
+   STOP = 0 // Should be read-only bit
+   SR = 0 // We don't care for now
+   12_24 = 0
+   SIE = 0
+   AIE = 0
+   CIE = 0
+
+Control_2 register = 0x02
+
+Control_3 register
+   PM[2:0] = 000 // TBC
+   // Nothing more for now
+
+
+Tmr_A_freq_ctrl = 0x03 // 1/60 Hz
+Tmr_A_reg = 5 // 5 min. is the default value
+Tmr_CLKOUT_ctrl = 0x02 // See table 34 page 32 for information
+
+Once registers above are configured, every Tmr_A_reg minutes,
+the µC will receive an interruption. Upon this interruption,
+a task will read the current date/time and the value of the
+global energy counter-previous value of the global energy counter
+and save it to the EEPROM memory.
+
+That's it
